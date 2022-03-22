@@ -1,0 +1,6 @@
+This is to test the effect of git rebase.
+changes are made on both th3e local and remote repository
+git push will be run from the local repository
+since changes were also made on remote repository
+there will be conflict
+git rebase will fix that
